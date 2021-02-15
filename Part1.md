@@ -7,7 +7,7 @@ skip this step.)
 
 **NOTE:** These instructions assume you're using Ruby >=2.6.4 and
 <3.0.0 (2.6.0-2.6.3 do not work with `byebug`),
-and Rails 4.2.x.  **The assignment has not been tested with other
+and Rails 4.2.10.  **The assignment has not been tested with other
 versions, and there are files that will almost certainly cause errors
 with Rails >=5.**
 
