@@ -92,7 +92,7 @@ and change it to read as follows:
 For those who are using Windows, and running Ruby from RubyInstaller.org, change
 this part to read as follows:
 
-`gem 'sqlite3', '~> 1.3.0'`, platforms: [:x64_mingw]
+`gem 'sqlite3', '~> 1.3.0', platforms: [:x64_mingw]`
 
 Then run `bundle update` and verify that its output contains "Using sqlite3 1.3.x" 
 where x is any minor version.
