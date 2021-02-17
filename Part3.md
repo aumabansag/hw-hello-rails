@@ -103,5 +103,5 @@ as a Service) in the cloud, namely Heroku.
 </details>
 
 <div align="center">
-<b><a href="Part2.md">&larr; Previous: Part 2</a> &bull; <a href="Part2.md">Next: Part 4 &rarr;</a></b>
+<b><a href="Part2.md">&larr; Previous: Part 2</a> &bull; <a href="Part4.md">Next: Part 4 &rarr;</a></b>
 </div>
