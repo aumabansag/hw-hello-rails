@@ -158,6 +158,34 @@ redeploy.  If you created new migrations, you also need to
 </details>
 
 
+Submission Instructions
+-----------------------
+If you are done, deploy to Heroku and submit the URL of your deployed game in a file named `rails-url.txt`. 
+
+You can create your text file using the `echo` command like this:
+
+```
+echo 'my-app-12345.herokuapp.com' > rails-url.txt
+```
+
+If you run the `cat` command after creating the file like this:
+
+```
+cat rails-url.txt
+```
+
+then the output should look like this:
+
+```
+my-app-12345.herokuapp.com
+```
+
+You would of course change 'my-app-12345' to match your Heroku URL.
+
+Lastly, visit the same URL that you put into the text file with your web browser to be sure that your app is running correctly at that address before submitting the text file.
+
+Submit your file in the Assignment 1 Submission Bin in the VLE site. 
+
 
 <div align="center">
 <b><a href="Part3.md">&larr; Previous: Part 3</a></b>
